@@ -16,3 +16,8 @@ RONIE SANTOS DE MENEZES RM: 84259
 VINICIUS BARBOSA SANTOS RM: 84401
 
 VINICIUS RODRIGUES ALVES RM: 82077
+
+
+Link YouTube: https://youtu.be/AxI-2N7VZdg
+
+Link GitHub: https://github.com/GabrielMontovani/GlobalSolutionDevOps.git
